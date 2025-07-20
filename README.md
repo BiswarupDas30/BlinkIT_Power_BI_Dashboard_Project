@@ -60,7 +60,7 @@ This dashboard can be used by business analysts and decision-makers to:
 ---
 ## 🔗 Live Power BI Report
 You can explore the dashboard online here:
-👉 (https://app.powerbi.com/view?r=eyJrIjoiYmRjZDIwOTgtOTljZC00YWIzLWI4YjYtMTAxODBiYTJkMDE4IiwidCI6ImIxN2MwZGJjLWZkMDktNDQxOS04NWZmLWIzYzJjMGU4ZDYzMiJ9](https://app.powerbi.com/view?r=eyJrIjoiYWI0NGJiNjAtY2EzNi00MzE1LTgwZmUtYjU3NTlhNTk2ZWI0IiwidCI6ImIxN2MwZGJjLWZkMDktNDQxOS04NWZmLWIzYzJjMGU4ZDYzMiJ9)
+👉 ([https://app.powerbi.com/view?r=eyJrIjoiYmRjZDIwOTgtOTljZC00YWIzLWI4YjYtMTAxODBiYTJkMDE4IiwidCI6ImIxN2MwZGJjLWZkMDktNDQxOS04NWZmLWIzYzJjMGU4ZDYzMiJ9](https://app.powerbi.com/view?r=eyJrIjoiYWI0NGJiNjAtY2EzNi00MzE1LTgwZmUtYjU3NTlhNTk2ZWI0IiwidCI6ImIxN2MwZGJjLWZkMDktNDQxOS04NWZmLWIzYzJjMGU4ZDYzMiJ9](https://app.powerbi.com/view?r=eyJrIjoiYWI0NGJiNjAtY2EzNi00MzE1LTgwZmUtYjU3NTlhNTk2ZWI0IiwidCI6ImIxN2MwZGJjLWZkMDktNDQxOS04NWZmLWIzYzJjMGU4ZDYzMiJ9 ))
 ---
 ## 📬 Contact
 
